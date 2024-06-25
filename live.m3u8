@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0, tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="",QMusic
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
