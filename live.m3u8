@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0, tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="",QMusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:0, tvg-logo="https://camo.githubusercontent.com/06568a7413abd1af0a0d928cb07af881ab93c60f8b224f1271bb8269d2ac332b/68747470733a2f2f692e696d6775722e636f6d2f705542793450622e706e67" group-title="",NPO1
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
